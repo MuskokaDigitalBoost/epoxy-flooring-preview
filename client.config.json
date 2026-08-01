@@ -1,0 +1,22 @@
+{
+  "projectSlug": "northline-floor-co-concept",
+  "brandName": "Northline Floor Co.",
+  "brandShort": "NF",
+  "domain": "northline-floor.example",
+  "email": "hello@northline-floor.example",
+  "baseLocation": "Client location to be confirmed",
+  "serviceArea": "approved local service area",
+  "industry": "Epoxy & Concrete Floor Coatings",
+  "heroKicker": "Seamless floors. Serious finish.",
+  "heroHeadline": "Turn the hardest-working surface in your space into a standout feature.",
+  "heroSupport": "A premium concept for a local epoxy flooring company serving homeowners and light-commercial spaces.",
+  "primaryCta": "Plan your floor",
+  "service1Name": "Garage Floors",
+  "service1Description": "A clean, seamless coating system designed around the way your garage is actually used.",
+  "service2Name": "Basement Floors",
+  "service2Description": "A brighter, more finished foundation for gyms, workshops, storage rooms, and living space.",
+  "service3Name": "Commercial Coatings",
+  "service3Description": "Purpose-built floor systems for customer-facing and light-industrial environments.",
+  "service4Name": "Concrete Preparation",
+  "service4Description": "Careful surface preparation and repairs to give the coating system the right foundation."
+}

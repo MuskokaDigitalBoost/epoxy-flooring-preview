@@ -1,0 +1,22 @@
+{
+  "projectSlug": "client-company",
+  "brandName": "Client Company",
+  "brandShort": "CC",
+  "domain": "example.com",
+  "email": "hello@example.com",
+  "baseLocation": "City, Province",
+  "serviceArea": "Primary service area",
+  "industry": "Client industry",
+  "heroKicker": "Clear positioning. Better customer journeys.",
+  "heroHeadline": "A clear headline built around the customer outcome.",
+  "heroSupport": "Explain who the company helps, what it provides, where it works, and why the next customer should care.",
+  "primaryCta": "Request a consultation",
+  "service1Name": "Primary Service",
+  "service1Description": "Describe the highest-priority service and the customer outcome it supports.",
+  "service2Name": "Secondary Service",
+  "service2Description": "Describe another important service in clear, customer-focused language.",
+  "service3Name": "Growth Service",
+  "service3Description": "Describe the service that supports acquisition, retention, or operational growth.",
+  "service4Name": "Ongoing Support",
+  "service4Description": "Describe the long-term support, maintenance, or partnership option."
+}

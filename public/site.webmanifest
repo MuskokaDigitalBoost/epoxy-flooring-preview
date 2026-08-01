@@ -1,0 +1,9 @@
+{
+  "name": "Northline Floor Co.",
+  "short_name": "NF",
+  "description": "A premium concept for a local epoxy flooring company serving homeowners and light-commercial spaces.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f0e",
+  "theme_color": "#0d0f0e"
+}
