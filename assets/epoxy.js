@@ -194,19 +194,21 @@ motion.add(
       });
     });
 
-    gsap.to(".hero-image", {
-      yPercent: 8,
-      scale: 1.07,
-      ease: "none",
-      scrollTrigger: { trigger: ".hero", start: "top top", end: "bottom top", scrub: 0.9 }
-    });
+    if (context.conditions.desktop) {
+      gsap.to(".hero-image", {
+        yPercent: 8,
+        scale: 1.07,
+        ease: "none",
+        scrollTrigger: { trigger: ".hero", start: "top top", end: "bottom top", scrub: 0.9 }
+      });
 
-    gsap.to(".visual-break > img", {
-      yPercent: 7,
-      scale: 1.13,
-      ease: "none",
-      scrollTrigger: { trigger: ".visual-break", start: "top bottom", end: "bottom top", scrub: 0.8 }
-    });
+      gsap.to(".visual-break > img", {
+        yPercent: 7,
+        scale: 1.13,
+        ease: "none",
+        scrollTrigger: { trigger: ".visual-break", start: "top bottom", end: "bottom top", scrub: 0.8 }
+      });
+    }
 
     const removeDepth = context.conditions.desktop
       ? createPointerDepth(gsap, ".service-card, .finish-stage", { maxRotation: 3.1, lift: -4, perspective: 1200 })
