@@ -1,6 +1,6 @@
 # Epoxy Flooring Preview
 
-Premium single-page website concept for a fictional epoxy and concrete floor coating company.
+Premium single-page website concept for a fictional epoxy flooring company.
 
 ## Preview
 

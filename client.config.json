@@ -6,7 +6,7 @@
   "email": "hello@northline-floor.example",
   "baseLocation": "Client location to be confirmed",
   "serviceArea": "approved local service area",
-  "industry": "Epoxy & Concrete Floor Coatings",
+  "industry": "Epoxy Flooring & Floor Coatings",
   "heroKicker": "Seamless floors. Serious finish.",
   "heroHeadline": "Turn the hardest-working surface in your space into a standout feature.",
   "heroSupport": "A premium concept for a local epoxy flooring company serving homeowners and light-commercial spaces.",
@@ -17,6 +17,6 @@
   "service2Description": "A brighter, more finished foundation for gyms, workshops, storage rooms, and living space.",
   "service3Name": "Commercial Coatings",
   "service3Description": "Purpose-built floor systems for customer-facing and light-industrial environments.",
-  "service4Name": "Concrete Preparation",
+  "service4Name": "Epoxy Floor Preparation",
   "service4Description": "Careful surface preparation and repairs to give the coating system the right foundation."
 }
